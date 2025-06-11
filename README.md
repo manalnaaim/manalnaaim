@@ -22,16 +22,46 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/> </a>
+
+<p align="center">
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xIO33l7RlmLR4I/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
+  
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
+  
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMt9638dO8dftAjtco/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
+  
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RFETd0RwQJQYy/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
+  
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtNnR3eGZqZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8gqVrQk3KNO/giphy.gif" width="60" height="60" style="margin: 0 15px;">
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manalnaaim&show_icons=true&locale=en&layout=compact" alt="manalnaaim" />
-  <img src="https://github-readme-stats.vercel.app/api?username=manalnaaim&show_icons=true&locale=en" alt="manalnaaim" />
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manalnaaim&show_icons=true&locale=en&layout=compact&theme=radical" alt="manalnaaim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manalnaaim&show_icons=true&locale=en&theme=radical" alt="manalnaaim" />
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWQyY2R2d2V4eG5jZzR5eGZ6ZzR4eGZ0bHZqZzB0eGZ6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnVY5sZxWkWrCkQZJ1/giphy.gif" width="100">
+</div>
