@@ -6,8 +6,8 @@
 </p>
 
 - ❤️ Student passionate about digital technologies and motivated to develop my skills through concrete projects
-- 🌱 Still learning
 - ✏️ My goal is to work in a dynamic environment where I can apply my technical skills while continuing to learn. I seek to develop my expertise through concrete projects that will allow me to effectively contribute to the world of technology.
+- 🌱 Still learning new things
 - 👨‍💻 All projects are in : [github.com/manalnaaim](https://github.com/manalnaaim)
 - 📫 Email: **manalnaaim.edu@gmail.com**
 
