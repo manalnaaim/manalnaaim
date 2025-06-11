@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=manalnaaim&label=Profile%20views&color=0e75b6&style=flat" alt="manalnaaim" /> 
 </p>
 
-- 🔭 Currently working on: AI and Desktop Applications
-- 🌱 Learning: **T-SQL, Java, Python (Django)**
-- 👨‍💻 All projects: [github.com/manalnaaim](https://github.com/manalnaaim)
+- 🌱 Still learning
+- 👨‍💻 All projects are in : [github.com/manalnaaim](https://github.com/manalnaaim)
 - 📫 Email: **manalnaaim.edu@gmail.com**
 
 <h3 align="left">Connect:</h3>
