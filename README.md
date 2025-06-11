@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences , My Portfolio : [https://manalnaaimportfolios.vercel.app/](https://manalnaaimportfolios.vercel.app/)
 
-- 👩‍💻 Personnality : **I'm a creative thinker, both rigorous and curious . I enjoy solving complex problems and approaching tasks with a logical and structured mindset. Goal-oriented and persistent, I stay focused when facing challenges and always strive for high-quality results.**
+- 👩‍💻 About Me : **I'm a creative thinker, both rigorous and curious . I enjoy solving complex problems and approaching tasks with a logical and structured mindset. Goal-oriented and persistent, I stay focused when facing challenges and always strive for high-quality results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
