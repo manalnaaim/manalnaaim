@@ -5,7 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=manalnaaim&label=Profile%20views&color=0e75b6&style=flat" alt="manalnaaim" /> 
 </p>
 
+- ❤️ Student passionate about digital technologies and motivated to develop my skills through concrete projects
 - 🌱 Still learning
+- ✏️ My goal is to work in a dynamic environment where I can apply my technical skills while continuing to learn. I seek to develop my expertise through concrete projects that will allow me to effectively contribute to the world of technology.
 - 👨‍💻 All projects are in : [github.com/manalnaaim](https://github.com/manalnaaim)
 - 📫 Email: **manalnaaim.edu@gmail.com**
 
