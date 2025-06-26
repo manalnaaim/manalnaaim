@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manalnaaim.edu@gmail.com**
 
-- 📄 Know about my experiences , My Portfolio : [https://manalnaaimportfolios.vercel.app/](https://manalnaaimportfolios.vercel.app/)
+- 📄 Know about my experiences , My Portfolio : [https://manalnaaimportfolios.vercel.app/](https://manalnaaim-portfolio.vercel.app/)
 
 - 👩‍💻 About Me : **I'm a creative thinker, both rigorous and curious . I enjoy solving complex problems and approaching tasks with a logical and structured mindset. Goal-oriented and persistent, I stay focused when facing challenges and always strive for high-quality results.**
 
