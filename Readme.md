@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manalnaaim&label=Profile%20views&color=0e75b6&style=flat" alt="manalnaaim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manalnaaim" alt="manalnaaim" /></a> </p>
-
 - ❤️ Student passionate about digital technologies and motivated to develop my skills through concrete projects
   
 - ✏️ My goal is to work in a dynamic environment where I can apply my technical skills while continuing to learn. I seek to develop my expertise through concrete projects that will allow me to effectively contribute to the world of technology.
