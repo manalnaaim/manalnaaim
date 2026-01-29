@@ -64,3 +64,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manalnaaim&show_icons=true&locale=en" alt="manalnaaim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manalnaaim&" alt="manalnaaim" /></p>
+
+<!-- Option 1 : Simple CDN -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+</a>
+
+<!-- Option 2 : Autre CDN -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
+</a>
+
+<!-- Option 3 : Avec une couleur -->
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+</a>
