@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi Everyone 👋, I'm Naaim Manal</h1>
 <h3 align="center">I'm a engineering student in Computer Science and Networks at EMSI (Moroccan School of Engineering Sciences). Passionate about software development.</h3>
 
@@ -26,13 +27,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- Ajout des nouveaux stickers -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>  
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>  
-
-<!-- Vos stickers existants -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>  
@@ -64,3 +58,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manalnaaim&show_icons=true&locale=en" alt="manalnaaim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manalnaaim&" alt="manalnaaim" /></p>
+
